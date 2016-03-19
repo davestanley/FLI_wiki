@@ -1,0 +1,10 @@
+Nuclear
+https://tools.wmflabs.org/pageviews/#project=en.wikipedia.org&platform=all-access&agent=user&range=latest-90&pages=Nuclear_holocaust|Nuclear_winter|Nuclear_weapon|Mutual_assured_destruction|Atomic_bombings_of_Hiroshima_and_Nagasaki|History_of_nuclear_weapons|Weapon_of_mass_destruction|Effects_of_nuclear_explosions|Nuclear_proliferation|World_War_III
+
+AI pages
+https://tools.wmflabs.org/pageviews/#project=en.wikipedia.org&platform=all-access&agent=user&range=latest-90&pages=Friendly_artificial_intelligence|AI_takeover|Existential_risk_from_artificial_general_intelligence|OpenAI|Google_DeepMind|DeepDream|Technological_singularity|Deep_learning|Ethics_of_artificial_intelligence
+
+
+Institutes
+https://tools.wmflabs.org/pageviews/#project=en.wikipedia.org&platform=all-access&agent=user&range=latest-90&pages=Future_of_Life_Institute|Future_of_Humanity_Institute|Machine_Intelligence_Research_Institute
+
