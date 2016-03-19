@@ -26,14 +26,6 @@ localoutput
 Thumbs.db
 
 # Media files
-*.html
-*.pdf
-*.eps
-*.bmp
-*.svg
-*.tif
-*.png
-readme.txt
 
 # Binary files
 run_analysis_binwrapp

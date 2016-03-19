@@ -1,0 +1,12 @@
+
+
+https://tools.wmflabs.org/pageviews/#project=fr.wikipedia.org&platform=all-access&agent=user&range=latest-90&pages=Arme_nucléaire
+
+https://tools.wmflabs.org/pageviews/#project=de.wikipedia.org&platform=all-access&agent=user&range=latest-90&pages=Kernwaffe
+
+https://tools.wmflabs.org/pageviews/#project=ru.wikipedia.org&platform=all-access&agent=user&range=latest-90&pages=Ядерное_оружие
+
+https://tools.wmflabs.org/pageviews/#project=ja.wikipedia.org&platform=all-access&agent=user&range=latest-90&pages=核兵器
+
+https://tools.wmflabs.org/pageviews/#project=zh.wikipedia.org&platform=all-access&agent=user&range=latest-90&pages=核武器
+

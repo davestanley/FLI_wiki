@@ -5,10 +5,12 @@
 
 
 addpath(genpath('funcs_supporting'));
+addpath(genpath('plott'));
 
 mypath = './data';
 myfile = 'wiki_nuclear.xls';
 myfile = 'wiki_ai.xls';
+myfile = 'wiki_org.xls';
 s = load_data(mypath,myfile);
 
 
@@ -28,11 +30,6 @@ legarr=dat.legarr;
 
 
 
-%% Analysis -- basic timeseries
-
-opts.normalize_on = 0;
-figure; plot_timeseries(dat,opts);
-
 
 %% Analysis -- basic medians boxplot
 
@@ -45,6 +42,19 @@ figure; plot_boxplot(dat,opts2);
 
 clc
 print_means(dat);
+
+
+%% Analysis -- basic timeseries
+
+opts.normalize_on = 0;
+figure; plot_timeseries(dat,opts);
+
+
+
+%% Analysis -- PCA
+
+opts.normalize_on = 0;
+figure; plot_timeseries_pca(dat,opts);
 
 
 %% Analysis -- basic means bargraph
